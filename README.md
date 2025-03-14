@@ -5,7 +5,6 @@ The **Pizza Parlor Order Management System** is a **JavaFX-based application** d
 
 The project follows an **object-oriented approach** with a structured class hierarchy for handling different order types.  
 
----
 
 ## Features 
 
