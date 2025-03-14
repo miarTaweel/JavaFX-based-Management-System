@@ -1,7 +1,7 @@
 # Pizza Parlor Order Management System  
 
 
-The **Pizza Parlor Order Management System** is a **JavaFX-based application** designed to efficiently handle **pizza orders** based on customer preferences. The system supports different order types, including **Seated (Dine-In), To-Go (Takeout), and Delivery**. Orders are stored, managed, and printed to a file for record-keeping.  
+The **Pizza Parlor Order Management System** is a **JavaFX-based application** designed to efficiently handle **pizza orders** based on customer preferences. The system supports different order types, including **Seated , To-Go , and Delivery**. Orders are stored,and printed to a file for record-keeping.  
 
 The project follows an **object-oriented approach** with a structured class hierarchy for handling different order types.  
 
@@ -17,7 +17,6 @@ The project follows an **object-oriented approach** with a structured class hier
 ✔ **View All Orders** – Displays a list of all active and completed orders.  
 ✔ **Print Orders to File** – Saves all orders to a file for record-keeping.  
 
----
 
 ## Main Classes  
 
@@ -27,11 +26,10 @@ The project follows an **object-oriented approach** with a structured class hier
 - **`Delivery`** (Subclass) – Manages home delivery, including delivery charges and tracking.  
 - **`Driver`** – JavaFX class that provides the graphical user interface for order management.  
 
----
 
 ## Example Usage
 
-To run the program, provide the input file "cities.txt" containing city data and Run the Program.c file , specify the cities to compare:
+To run the program, Run the Driver.java file :
 
 ![Alt text](FromTubasToSalfit.png)
 
