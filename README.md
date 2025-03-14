@@ -13,7 +13,8 @@ The project follows an **object-oriented approach** with a structured class hier
 ✔ **Order Types:**  
    - **Seated** – Assigns a table for dine-in customers.  
    - **To-Go** – Customers can pick up their order at a specified time.  
-   - **Delivery** – Orders are sent to the customer's address with an assigned delivery person.  
+   - **Delivery** – Orders are sent to the customer's address with an assigned delivery person.
+
 ✔ **View All Orders** – Displays a list of all active and completed orders.  
 ✔ **Print Orders to File** – Saves all orders to a file for record-keeping.  
 
@@ -31,7 +32,7 @@ The project follows an **object-oriented approach** with a structured class hier
 
 To run the program, Run the Driver.java file :
 
-![Alt text](FromTubasToSalfit.png)
+![Alt text](GUI.png)
 
 
 ## Contact
