@@ -32,7 +32,9 @@ The project follows an **object-oriented approach** with a structured class hier
 
 To run the program, Run the Driver.java file :
 
-![Alt text](GUI.png)
+<div align="center">
+<img src="GUI.png" alt="Gantt Chart" width="400"/>
+</div>
 
 
 ## Contact
