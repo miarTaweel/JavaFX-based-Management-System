@@ -8,14 +8,14 @@ The project follows an **object-oriented approach** with a structured class hier
 
 ## Features 
 
-✔ **Place a New Order** – Customers can place an order by selecting pizza type, size, toppings, and order type.  
-✔ **Order Types:**  
+**Place a New Order** – Customers can place an order by selecting pizza type, size, toppings, and order type.  
+**Order Types:**  
    - **Seated** – Assigns a table for dine-in customers.  
    - **To-Go** – Customers can pick up their order at a specified time.  
    - **Delivery** – Orders are sent to the customer's address with an assigned delivery person.
 
-✔ **View All Orders** – Displays a list of all active and completed orders.  
-✔ **Print Orders to File** – Saves all orders to a file for record-keeping.  
+**View All Orders** – Displays a list of all active and completed orders.  
+**Print Orders to File** – Saves all orders to a file for record-keeping.  
 
 
 ## Main Classes  
